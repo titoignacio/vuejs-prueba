@@ -3,18 +3,22 @@
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <micomponente></micomponente>
+    <header-component></header-component>
   </div>
 </template>
 
 <script>
+import HeaderComponent from './components/HeaderComponent.vue'
 import HelloWorld from './components/HelloWorld.vue'
 import Micomponente from './components/Micomponente.vue'
+
 
 export default {
   name: 'App',
   components: {
     HelloWorld,
-    Micomponente
+    Micomponente,
+    HeaderComponent
   }
 }
 </script>
