@@ -4,6 +4,7 @@
     <LogoComponent></LogoComponent>
     <TituloPortada></TituloPortada>
     <Carusel></Carusel>
+    <Contenido></Contenido>
   </div>
 </template>
 
@@ -12,6 +13,7 @@ import HeaderComponent from './components/HeaderComponent.vue'
 import LogoComponent from './components/LogoComponent.vue'
 import TituloPortada from './components/TituloPortada.vue'
 import Carusel from './components/Carusel.vue'
+import Contenido from './components/Contenido.vue'
 
 
 
@@ -23,6 +25,7 @@ export default {
     LogoComponent,
     TituloPortada,
     Carusel,
+    Contenido
   }
 }
 </script>
