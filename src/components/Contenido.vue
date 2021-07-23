@@ -6,7 +6,7 @@
 
         <!-- card -->
 
-        <div class="card" style="width: 100%;">
+        <div class="card" style="width: 100%;" id="card">
   <img src="../assets/img/carusel-2.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
@@ -21,7 +21,7 @@
 
       <!--video-->
 
-      <div class="embed-responsive embed-responsive-16by9">
+      <div class="embed-responsive embed-responsive-16by9" id="video">
            <iframe width="560" height="315" src="https://www.youtube.com/embed/Kd4KEMmn1fE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
 

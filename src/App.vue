@@ -6,6 +6,7 @@
     <Carusel></Carusel>
     <ContenidoTitulo></ContenidoTitulo>
     <Contenido></Contenido>
+    <Pagination></Pagination>
   </div>
 </template>
 
@@ -16,6 +17,7 @@ import TituloPortada from './components/TituloPortada.vue'
 import Carusel from './components/Carusel.vue'
 import ContenidoTitulo from './components/ContenidoTitulo.vue'
 import Contenido from './components/Contenido.vue'
+import Pagination from './components/Pagination.vue'
 
 
 
@@ -28,7 +30,8 @@ export default {
     TituloPortada,
     Carusel,
     ContenidoTitulo,
-    Contenido
+    Contenido,
+    Pagination
   }
 }
 </script>
