@@ -1,7 +1,7 @@
 <template>
 
 
-    <div class="d-flex justify-content-center animate" v-scroll-reveal.reset="{ delay: 1000 }">
+    <div class="d-flex justify-content-center animate" v-scroll-reveal.reset>
 
         
 

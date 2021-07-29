@@ -9,4 +9,10 @@ new Vue({
 }).$mount('#app')
 
 
-Vue.use(VueScrollReveal);
+Vue . use ( VueScrollReveal ,  { 
+  class : 'v-scroll-revel' ,  // Una clase CSS aplicada a elementos con la directiva v-scroll-revel; útil para anulaciones de animación. 
+  duración : 3000 , 
+  escala : 1 , 
+  distancia: '100px' , 
+  
+} ) ;

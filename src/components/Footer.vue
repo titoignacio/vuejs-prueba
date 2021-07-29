@@ -11,7 +11,7 @@
     
     <!-- Formulario-->
 
-    <div class="col-md-4 form">
+    <div class="col-md-4 form" v-scroll-reveal.reset>
        <div class="container-fluid mb-5">
       <section class="form-register">
          <input class="controls" type="text" name="nombres" id="nombres" placeholder="ingrese sus nombres">
