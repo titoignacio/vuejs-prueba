@@ -2,7 +2,7 @@
     
   <!--navbar-->
 
-  <nav class="navbar navbar-expand-lg navbar-light bg-light" v-scroll-reveal.reset>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light navb" v-scroll-reveal.reset>
    <div class="container">
      <a class="navbar-brand" href="index.html">
    <img src="../assets/img/puente_cuantico_final.png" width="110" height="80" alt="" loading="lazy">
