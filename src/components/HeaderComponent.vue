@@ -17,13 +17,19 @@
      <a class="nav-link" href="index.html">Inicio <span class="sr-only">(current)</span></a>
    </li>
    <li class="nav-item">
-     <a class="nav-link" href="numerologia.html">Numerología Universal</a>
+     <a class="nav-link" href="#">¿Quiénes Somos?</a>
    </li>
    <li class="nav-item">
-     <a class="nav-link" href="#">Pricing</a>
+     <a class="nav-link" href="#">Articulos</a>
    </li>
    <li class="nav-item">
-     <a class="nav-link" href="#">Disabled</a>
+     <a class="nav-link" href="#">Videos</a>
+   </li>
+   <li class="nav-item">
+     <a class="nav-link" href="#">Donaciones</a>
+   </li>
+   <li class="nav-item">
+     <a class="nav-link" href="#">Contacto</a>
    </li>
  </ul>
 </div>
